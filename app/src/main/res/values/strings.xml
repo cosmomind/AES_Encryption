@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AES_Encrypter</string>
+    <string name="enter_your_key">Enter your key</string>
+    <string name="enter_your_message">Enter your message</string>
+    <string name="encrypt">Encrypt</string>
+    <string name="decrypt">Decrypt</string>
+    <string name="send_encrypted_email">Send encrypted email</string>
+    <string name="todo">TODO</string>
+</resources>
